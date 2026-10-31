@@ -39,3 +39,7 @@ Features:
 What I learned:
 
 I practiced Python functions, loops, list accumulation, and automated testing. I also learned why keeping original data unchanged is important in data preprocessing and machine learning.
+
+## Day 5 - export clean distances
+I created a python fuction that clean a list of distances, create a csv file and return a clean list of distances.
+I tested if it works with a list of values without changing the original list, and that work with and empty list.
