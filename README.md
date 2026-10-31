@@ -24,7 +24,7 @@ Features:
 ## My Goal
 Build four significant AI engineering portfolio projects and develop the skills needed for an entry-level technology career.
 
-###### **Day 4 — Data Cleaning**
+## Day 4 — Data Cleaning
 
 Built a Python function called clean_distances() to remove negative distance values while preserving the original dataset.
 
